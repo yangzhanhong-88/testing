@@ -1,0 +1,23 @@
+{
+    "name": "yangzhanhong/test",
+    "description": "this is my first composer's package",
+    "type": "library",
+    "require": {
+        "php": ">=7.2",
+        "doctrine/dbal": "^2.9",
+        "illuminate/bus": "^6.0",
+        "illuminate/console": "^6.0",
+        "illuminate/database": "^6.0",
+        "illuminate/events": "^6.0",
+        "illuminate/notifications": "^6.0",
+        "laravelcollective/html": "^6.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yangzhanhong",
+            "email": "360206814@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

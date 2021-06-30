@@ -1,2 +1,2 @@
-# testing
-my first github test
+#Project Test
+this is my first composer's package
